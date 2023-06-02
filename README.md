@@ -24,9 +24,9 @@ Mettre en place un plan de test d’acceptation à partir de ce [template](https
  #### Contraintes techniques : 
  Tu trouveras les coding guidelines de Kanap  [ici](https://course.oc-static.com/projects/DWJ_FR_P5/DW+P5+-+Specifications+fonctionnelles.pdf).
  
- #### Guide d'étape
+ #### Guide d'étapes
 
-afin de vous aider à réaliser ce projet, vous pouvez consulter ce [guide](https://course.oc-static.com/projects/DWJ_FR_P5/DW+P5+-+Etapes+cles.pdf) d’étapes à suivre, qui contient des recommandations et des ressources pour organiser votre travail.
+Afin de vous aider à réaliser ce projet, vous pouvez consulter ce [guide](https://course.oc-static.com/projects/DWJ_FR_P5/DW+P5+-+Etapes+cles.pdf) d’étapes à suivre, qui contient des recommandations et des ressources pour organiser votre travail.
 
 
 ### Pour lancer le serveur utilisez la commande `npm start` et lancez LiveServer sur le fichier index.html
