@@ -1,5 +1,5 @@
 # Openclassrooms Formation Développeur web
-## Projet 5 - Kanam / Construisez un site e-commerce en JavaScript
+## Projet 5 - Kanap / Construisez un site e-commerce en JavaScript
 ![Kanap](/front/images/logo.png)
 
 #### Compétences acquises
